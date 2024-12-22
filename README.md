@@ -10,9 +10,9 @@
 - [x] ปรับปรุงแบบฟอร์มหน้า checkout เดือนเมื่อผู้ใช้ไม่ได้กรอกบางช่องหรือกรอกผิดรูปแบบ
   ![image](https://github.com/user-attachments/assets/7d8a5645-b0ef-4dcd-b23d-58758eeeea9a)
 - [x] รองรับการอัพโหลดสลิปโอนเงินเข้า NodeJs Server จะอยู่ใน *checkout+orders_part/public/images/transactions*
-- ![img_1.png](img_1.png)
+  ![image](https://github.com/user-attachments/assets/131af937-4893-4cb3-b1fb-53dfa84313e8)
 - [x] เชื่อมกับ mongoDB ผ่าน URI
-- ![img.png](img.png)
+  
   + ไม่ต้อง import database 
   + เปิดโปรแกรม MongoDB Compass แล้วเชื่อมต่อโดยใช้ URI: mongodb://localhost:27017 จะสามารถเชื่อมต่อกับ DB ได้เลย
 - [x] เชื่อมหน้า Checkout กับ Orders แล้ว
