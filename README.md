@@ -12,9 +12,10 @@
 - [x] รองรับการอัพโหลดสลิปโอนเงินเข้า NodeJs Server จะอยู่ใน *checkout+orders_part/public/images/transactions*
   ![image](https://github.com/user-attachments/assets/131af937-4893-4cb3-b1fb-53dfa84313e8)
 - [x] เชื่อมกับ mongoDB ผ่าน URI
-  
+  ![image](https://github.com/user-attachments/assets/da40e85c-8e89-4a5a-803b-c3eae6ea0adc)
   + ไม่ต้อง import database 
   + เปิดโปรแกรม MongoDB Compass แล้วเชื่อมต่อโดยใช้ URI: mongodb://localhost:27017 จะสามารถเชื่อมต่อกับ DB ได้เลย
 - [x] เชื่อมหน้า Checkout กับ Orders แล้ว
 - [x] หน้า Orders แสดงผลข้อมูลโดยเรียงล่าสุดไว้บนสุด
-- ![img_2.png](img_2.png)
+  ![image](https://github.com/user-attachments/assets/411dfe0e-a17e-4e59-81e0-65d236cfc1c0)
+
