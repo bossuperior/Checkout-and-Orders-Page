@@ -1,8 +1,5 @@
 ##   Group Project: Regalix Ecommerce Website
 
-### ลิงก์เข้าหน้าเว็บ
-[Checkout] | [Orders]
-
 ### command line ติดตั้งโมดูลที่ต้องใช้
 ```shell
   npm i express path moment router multer mongoose ejs nodemon cheerio
@@ -11,7 +8,7 @@
 
 - [x] เชื่อมกับตะกร้าสินค้า
 - [x] ปรับปรุงแบบฟอร์มหน้า checkout เดือนเมื่อผู้ใช้ไม่ได้กรอกบางช่องหรือกรอกผิดรูปแบบ
-- ![img_3.png](img_3.png)
+  ![image](https://github.com/user-attachments/assets/7d8a5645-b0ef-4dcd-b23d-58758eeeea9a)
 - [x] รองรับการอัพโหลดสลิปโอนเงินเข้า NodeJs Server จะอยู่ใน *checkout+orders_part/public/images/transactions*
 - ![img_1.png](img_1.png)
 - [x] เชื่อมกับ mongoDB ผ่าน URI
